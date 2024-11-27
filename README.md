@@ -26,6 +26,18 @@ This project is a simple Flask-based web application that fetches memes from a p
 - Python 3.x
 - Pip (Python package manager)
 
+---
+## 📸 Screenshots
+---
+<img width="927" alt="1" src="https://github.com/user-attachments/assets/20142e67-ebc9-4066-b438-279b5f19bd01">
+<img width="929" alt="2" src="https://github.com/user-attachments/assets/5ad5c698-d741-495a-a7a4-a3a1026ec8f6">
+<img width="928" alt="3" src="https://github.com/user-attachments/assets/04d70768-9d09-4438-b5b3-c9f362207f61">
+<img width="926" alt="44" src="https://github.com/user-attachments/assets/388ecf2c-3df6-418f-af1d-ce9e48837a43">
+<img width="927" alt="55" src="https://github.com/user-attachments/assets/df7e1de1-9df5-49ea-8827-ac2325192de4">
+
+
+
+
 ### Steps
 
 1. Clone the repository:
